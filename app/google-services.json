@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1026153181936",
+    "firebase_url": "https://tambah-gambar-falah.firebaseio.com",
+    "project_id": "tambah-gambar-falah",
+    "storage_bucket": "tambah-gambar-falah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026153181936:android:90e3e1ad772ac646c18835",
+        "android_client_info": {
+          "package_name": "idn.firebase.falah.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026153181936-o9aa4porkatnfp38493kqpau8vskpv9d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "idn.firebase.falah.todo",
+            "certificate_hash": "c4c58dd026c8f27ccec763903db1f88f466670a5"
+          }
+        },
+        {
+          "client_id": "1026153181936-bvlbtbl2qf27ephvukqseb904lu1h856.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx5UslH5xGqOT5yBLEGtOb4JUbUYdGTx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026153181936-bvlbtbl2qf27ephvukqseb904lu1h856.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
